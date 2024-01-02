@@ -1,16 +1,23 @@
-### Hi there 👋
+## Hey there! I'm Feiyu Zhou👋
 
-<!--
-**zhoufy20/zhoufy20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="450"/>
 
-Here are some ideas to get you started:
+### 👨🏻‍💻 About Me </h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 &nbsp; I’m currently a PhD student in the School of Aerospace Engineering of Xi’an Jiaotong University, and mainly focus on solid mechanics.
+- 🤔 &nbsp; I graduated from the Cuiying Honors College of Lanzhou University.
+- ✍️ &nbsp; What doesn't kill me makes me stronger.
+- 📧 &nbsp; Gmail:   zhoufy.xjtu@gmail.com
+- 📧 &nbsp; EduMail: zhoufy20@lzu.edu.cn
+
+
+### 🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Machine Leaning 
+- 🖥  &nbsp; Molecular Dynamic
+- 🔍 &nbsp; Density functional theory
+
+
+
+<br>
+
