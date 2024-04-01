@@ -1,8 +1,6 @@
 <h1 align="center">Hey there 👋, I'm Feiyu
   <div style="text-align: center;">
 
-
-
 ### 👨🏻‍💻 About Me 
 
 - 🔭 &nbsp; Currently pursuing a Doctorate degree in solid mechanics at Xi’an Jiaotong University.
@@ -13,7 +11,7 @@
 
 
 
-### 🛠 Tech Stack</h3>
+### 🛠 Tech Stack
 
 - 💻 &nbsp; Machine Leaning 
 - 🖥  &nbsp; Molecular Dynamic
