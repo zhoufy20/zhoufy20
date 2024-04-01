@@ -1,14 +1,16 @@
-## Hey there! I'm Feiyu Zhou👋
+<h1 align="center">Hey there 👋, I'm Feiyu
+  <div style="text-align: center;">
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="450"/>
 
-### 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently a PhD student in the School of Aerospace Engineering of Xi’an Jiaotong University, and mainly focus on solid mechanics.
-- 🤔 &nbsp; I graduated from the Cuiying Honors College of Lanzhou University.
+### 👨🏻‍💻 About Me 
+
+- 🔭 &nbsp; Currently pursuing a Doctorate degree in solid mechanics at Xi’an Jiaotong University.
+- 🤔 &nbsp; graduated from the Cuiying Honors College of Lanzhou University.
 - ✍️ &nbsp; What doesn't kill me makes me stronger.
 - 📧 &nbsp; Gmail:   zhoufy.xjtu@gmail.com
-- 📧 &nbsp; EduMail: zhoufy20@lzu.edu.cn
+
+
 
 
 ### 🛠 Tech Stack</h3>
@@ -19,5 +21,4 @@
 
 
 
-<br>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zhoufy20&theme=github-compact&custom_title=Activity&radius=30&height=250" alt="Lazy">
