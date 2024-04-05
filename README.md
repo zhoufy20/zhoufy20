@@ -6,7 +6,7 @@
 - 🤔 &nbsp; graduated from the Cuiying Honors College of Lanzhou University.
 - ✍️ &nbsp; What doesn't kill me makes me stronger.
 - 📧 &nbsp; How to reach me: Email me at  zhoufy20@lzu.edu.cn
-
+- 🔍 &nbsp; More detailed personal information: zhoufy20@github.io.cn
 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=zhoufy20&theme=github-compact&custom_title=Activity&radius=30&height=250" alt="Lazy">
