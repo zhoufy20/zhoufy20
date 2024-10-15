@@ -5,7 +5,7 @@
 - 🔭 &nbsp; Currently pursuing a Doctorate degree in solid mechanics at Xi’an Jiaotong University.
 - 🤔 &nbsp; graduated from the Cuiying Honors College of Lanzhou University.
 - ✍️ &nbsp; What doesn't kill me makes me stronger.
-- 📧 &nbsp; How to reach me: Email me at  zhoufy20@lzu.edu.cn
+- 📧 &nbsp; How to reach me: Email me at  zhoufy.xjtu@gmail.cn
 - 🔍 &nbsp; More detailed personal information: [zhoufy20@github.io.cn](https://zhoufy20.github.io/)
 
 
