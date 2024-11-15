@@ -2,12 +2,17 @@
 
 ### 👨🏻‍💻 About Me 
 
-- 🔭 &nbsp; Currently pursuing a Doctorate degree in solid mechanics at Xi’an Jiaotong University.
-- 🤔 &nbsp; graduated from the Cuiying Honors College of Lanzhou University.
+- 🔭 &nbsp; Hi,there! I’m Feiyu Zhou, Currently pursuing a Doctorate degree with [Prof. Shengying Yue](https://gr.xjtu.edu.cn/en/web/syyue) and [Prof. Yilun Liu](https://gr.xjtu.edu.cn/en/web/yilunliu) in solid mechanics at [State Key Laboratory for Strength and Vibration of Mechanical Structures](http://en.xjtu.edu.cn/2021-03/30/c_607160.htm), School of Aerospace Engineering, Xi'an Jiaotong University, Xi'an, 710049, China.
+- 🤔 &nbsp; Simultaneously, I am a graduate student at [Cuiying Honors College](https://cycollege.lzu.edu.cn/) (China’s Top-notch Undergraduate training program 2.0), [Lanzhou University](https://www.lzu.edu.cn/), majoring in [Mathematics and Applied Mathematics](https://math.lzu.edu.cn/). 
 - ✍️ &nbsp; What doesn't kill me makes me stronger.
-- 📧 &nbsp; How to reach me: Email me at  zhoufy.xjtu@gmail.cn
-- 🔍 &nbsp; More detailed personal information: [zhoufy20@github.io.cn](https://zhoufy20.github.io/)
+- 📧 &nbsp; Feel free to email me for academic cooperations: zhoufy.xjtu@gmail.cn
+- 🔍 &nbsp; More detailed personal information: [My page](https://zhoufy20.github.io/) and [Curriculum Vitae](/https://zhoufy20.github.io/files/cv/cv.pdf)
 
+<div style="color: red;">
+My long-term research interests lie in:
+- Data-driven solid mechanics and solve real-world problems
+- AI4Science(Chemistry, Physics Large Language models etc)
+</div>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=zhoufy20&theme=github-compact&custom_title=Activity&radius=30&height=250" alt="Lazy">
 
