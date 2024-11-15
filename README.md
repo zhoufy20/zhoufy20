@@ -7,8 +7,8 @@
 - 📧 &nbsp; Feel free to email me for academic cooperations: zhoufy.xjtu@gmail.cn
 - 🔍 &nbsp; More detailed personal information: [My page](https://zhoufy20.github.io/) and [Curriculum Vitae](/https://zhoufy20.github.io/files/cv/cv.pdf)
 - **My long-term research interests lie in:**
- - Data-driven solid mechanics and solve real-world problems
- - AI4Science(Chemistry, Physics Large Language models etc)
+-- Data-driven solid mechanics and solve real-world problems
+-- AI4Science(Chemistry, Physics Large Language models etc)
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=zhoufy20&theme=github-compact&custom_title=Activity&radius=30&height=250" alt="Lazy">
 
