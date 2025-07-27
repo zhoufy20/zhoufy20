@@ -8,12 +8,11 @@
 
 **My long-term research interests** lie at the intersection of solid mechanics, applied mathematics, and artificial intelligence, with the overarching goal of addressing real-world engineering problems through physics-informed and data-driven approaches.
 
-- Data-driven solid mechanics: Leveraging machine learning and statistical methods to enhance the modeling, simulation, and design of complex mechanical systems.
+- **Data-Driven Mechanics:** Applying machine learning to improve the modeling and design of complex mechanical systems.
 
-- AI for Science: Developing and applying modern AI techniques—including graph neural networks (GNNs), physics-informed neural networks (PINNs), operator learning, and large language models—to accelerate scientific discovery and modeling.
+- **AI for Science:** Developing and applying modern AI techniques—including graph neural networks (GNNs), physics-informed neural networks (PINNs), operator learning, and large language models to accelerate scientific discovery and modeling.
 
-- Multi-scale mechanical modeling: Bridging scales from quantum mechanics (e.g., density functional theory) and molecular dynamics to continuum mechanics and phase-field modeling, aiming to connect theoretical understanding with practical applications.
-
+- **Multi-scale mechanical modeling:** Bridging scales from quantum mechanics (e.g., density functional theory) and molecular dynamics to continuum mechanics and phase-field modeling, aiming to connect theoretical understanding with practical applications.
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=zhoufy20&theme=github-compact&custom_title=Activity&radius=30&height=250" alt="Lazy">
 
